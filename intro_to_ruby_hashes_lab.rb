@@ -1,8 +1,8 @@
 def base_hash
 	base_hash = {
-	 :railroads=>
+	  
   {
-    :pieces=>4
+    :pieces
 }
 end
 
